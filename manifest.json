@@ -2,7 +2,7 @@
     "name": "Lab8-Starter",
     "short_name": "Kabir Vats",
     "description": "Recipe App Creating Recipe Cards, Using ServiceWorkers",
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#88BBFF",
     "theme_color": "#640505",
